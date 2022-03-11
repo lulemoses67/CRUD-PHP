@@ -1,0 +1,9 @@
+table{
+    table-layout: auto;
+    margin: 20px 0;
+    outline: none;
+}
+td,th{
+    padding: 10px;
+    text-align: center;
+}
